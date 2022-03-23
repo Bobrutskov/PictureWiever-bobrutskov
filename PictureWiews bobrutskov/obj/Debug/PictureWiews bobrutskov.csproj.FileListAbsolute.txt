@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\PictureWiews bobrutskov\PictureWiews bobrutskov\bin\Debug\PictureWiews bobrutskov.exe.config
+C:\Users\student\source\repos\PictureWiews bobrutskov\PictureWiews bobrutskov\bin\Debug\PictureWiews bobrutskov.exe
+C:\Users\student\source\repos\PictureWiews bobrutskov\PictureWiews bobrutskov\bin\Debug\PictureWiews bobrutskov.pdb
+C:\Users\student\source\repos\PictureWiews bobrutskov\PictureWiews bobrutskov\obj\Debug\PictureWiews bobrutskov.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\PictureWiews bobrutskov\PictureWiews bobrutskov\obj\Debug\PictureWiews_bobrutskov.Form1.resources
+C:\Users\student\source\repos\PictureWiews bobrutskov\PictureWiews bobrutskov\obj\Debug\PictureWiews_bobrutskov.Properties.Resources.resources
+C:\Users\student\source\repos\PictureWiews bobrutskov\PictureWiews bobrutskov\obj\Debug\PictureWiews bobrutskov.csproj.GenerateResource.cache
+C:\Users\student\source\repos\PictureWiews bobrutskov\PictureWiews bobrutskov\obj\Debug\PictureWiews bobrutskov.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\PictureWiews bobrutskov\PictureWiews bobrutskov\obj\Debug\PictureWiews bobrutskov.exe
+C:\Users\student\source\repos\PictureWiews bobrutskov\PictureWiews bobrutskov\obj\Debug\PictureWiews bobrutskov.pdb
